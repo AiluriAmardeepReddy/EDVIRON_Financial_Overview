@@ -1,4 +1,4 @@
-# EDVIRON_Financial_Overview
+# 1. EDVIRON_Financial_Overview
 
 This project is based on transaction data from Edviron’s payment platform.
 The objective is to understand how revenue is shared between Edviron, ERP partners, and schools, and to analyze settlements and pending exposure.
